@@ -1,13 +1,12 @@
-# Team Tracker
+# Manage My Business
 
 ## Overview
-As an employer or employee, it is important to keep track of your team members in order to work more effeciently. Team Tracker gives users the ability to add team members to a team board using the command line.
+As an employer or business owner, it is crucial to stay ontop od things by ensuring your employees are on task and consistently checking on them and their work/data.
 
-## Feautures
-
+## Features
 - User can use the command line to create/add team members to their team board
-- User has the option to add either a intern, manager, or engineer
-- User can add heir team members contacf information, such as their email and github
+- User has the option to view 4 work sectors
+
 
 ## Credit
 
