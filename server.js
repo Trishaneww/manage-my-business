@@ -265,6 +265,7 @@ let all_employees = function () {
       }
     })
 }
+
 // this calls the function again
 querySelectTable = tableName => {
   db.query(`SELECT * FROM ${tableName}`, (err, result) => {
