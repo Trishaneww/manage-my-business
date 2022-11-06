@@ -23,3 +23,4 @@ VALUES
   ('Karl', 'Towns', 3, 3),
   ('Jose', 'Alverado', 5, 4),
   ('Chris', 'Boucher', 6, 4);
+  
