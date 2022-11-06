@@ -5,6 +5,9 @@ As an employer or business owner, it is crucial to stay ontop od things by ensur
 
 ## Features
 - User can use the command line to create/add team members to their team board
+- Can add or delete a department
+- Can add or delete a given role
+- Can update an employees manager
 - User has the option to view 4 work sectors
 
 
